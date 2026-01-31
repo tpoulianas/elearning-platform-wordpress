@@ -9,7 +9,7 @@ University project involving the design and development of an e-learning course 
 This repository contains the exported course structure and supporting material for an online course created in WordPress and imported into an eClass system.
 
 ## Live Course (eClass)
-The course is available on the university eClass platform:
+The course is hosted on the university eClass platform (login required):
 
 🔗 http://softproj.edutel.uniwa.gr/elearning7/
 
